@@ -440,6 +440,8 @@ iframe {
   box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
 }
 
+
+
 /*
 ======== 
 JOIN US 
@@ -657,7 +659,12 @@ JOIN US
 .team__icon li a:hover {
   color: var(--first-color-darken);
 }
+
+
 /* ===== JOIN US====== */
+
+
+
 
 /*========== FOOTER ==========*/
 .footer {
@@ -882,6 +889,8 @@ h2 {
     margin-bottom: 50px;
   }
 }
+
+
 
 /* 
 ================================================
